@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891924962958",
+    "firebase_url": "https://firetestua-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "firetestua",
+    "storage_bucket": "firetestua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891924962958:android:276229f5fb8528fbdb73df",
+        "android_client_info": {
+          "package_name": "com.RA.AdvancedUnityEyalDorRonOn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891924962958-aqm84ah0s12ah9960h51qptpie9gt92h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD10PHUETWXwa238JLA5vqgOj-1IL2M-b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891924962958-aqm84ah0s12ah9960h51qptpie9gt92h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
